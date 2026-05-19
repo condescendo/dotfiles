@@ -1,3 +1,15 @@
 [submodule "dms_hypr/.config/hypr/hyprsplit"]
 	path = dms_hypr/.config/hypr/hyprsplit
-	url = git@github.com:shezdy/hyprsplit.git
+	url = https://github.com/shezdy/hyprsplit.git
+[submodule "tmux/.config/tmux/plugins/tmux-continuum"]
+	path = tmux/.config/tmux/plugins/tmux-continuum
+	url = https://github.com/tmux-plugins/tmux-continuum.git
+[submodule "tmux/.config/tmux/plugins/tmux-resurrect"]
+	path = tmux/.config/tmux/plugins/tmux-resurrect
+	url = https://github.com/tmux-plugins/tmux-resurrect.git
+[submodule "tmux/.config/tmux/plugins/tokyo-night-tmux"]
+	path = tmux/.config/tmux/plugins/tokyo-night-tmux
+	url = https://github.com/janoamaral/tokyo-night-tmux.git
+[submodule "tmux/.config/tmux/plugins/tpm"]
+	path = tmux/.config/tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm.git
